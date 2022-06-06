@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentina</h1>
-<h3 align="center">An ambitious web developer from Argentina</h3>
+<h3 align="center">Non-stop learning woman from Argentina</h3>
 
 - 🌱 I’m currently learning **Javascript** and **Python**
 
