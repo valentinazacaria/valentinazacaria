@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentina</h1>
 <h3 align="center">Non-stop learning woman from Argentina</h3>
 
-- 🌱 I’m currently learning **Java** and **Python**
+- 🌱 I’m currently learning **Java** and **Django**
 
 - 📫 How to reach me **valentina.zacaria@gmail.com**
 
